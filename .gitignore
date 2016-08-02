@@ -1,0 +1,3 @@
+/.settings/*.prefs
+/target/classes/*.class
+/target/test-classes/*.class
